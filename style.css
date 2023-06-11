@@ -1,0 +1,110 @@
+
+#logo {
+  width: 20%;
+  margin-left: 5%;
+}
+
+
+#form-pesquisa {
+  width: 80%;
+}
+
+
+#cart-button {
+  width: 80px;
+  height: 80px;
+  background-color: white;
+}
+
+
+span {
+  margin-top: 10px;
+  font-size: 14px;
+  color: #777;
+}
+
+
+
+
+#search-item {
+  width: 80%;
+}
+
+
+body {
+  margin: 10px;
+  border: 2px solid darkgray;
+  padding: 10px;
+}
+
+
+#inteiro {
+  padding: 50px;
+}
+
+
+#precifica {
+  width: 40%;
+  display: inline;
+}
+
+
+.carousel-item {
+  text-align: center;
+}
+
+.carousel-item img {
+  max-height: 400px;
+  margin: auto;
+}
+
+
+.newsletter {
+  width: 100%;
+  height: 50px;
+  margin-bottom: 20px;
+}
+
+.fa-star {
+  color: orange;
+  font-size: 15px;
+}
+
+footer {
+  background-color: lightgray;
+  padding: 5%;
+  margin-top: 2%;
+  padding-top: 1%;
+}
+
+
+.coluna img {
+  height: 30px;
+  margin-right: 10px;
+  vertical-align: middle;
+}
+
+.coluna p {
+  margin-bottom: 10px;
+}
+
+
+.redes-sociais img {
+  height: 30px;
+  margin-right: 10px;
+  vertical-align: middle;
+}
+
+
+.contato p {
+  margin-bottom: 10px;
+}
+
+.email, .telefone {
+  font-size: 20px;
+  margin-left: 10px;
+  vertical-align: middle;
+}
+.carousel-control-prev-icon,.carousel-control-next-icon {
+  filter: invert(100%);
+}
